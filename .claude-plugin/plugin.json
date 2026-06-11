@@ -1,0 +1,12 @@
+{
+  "name": "design-max",
+  "description": "Arsenal completo de design para Claude Code: comando /design-max que orquestra 22 skills de UI/UX (estilo, estetica, imagens de referencia, auditorias) + agente web-builder, em um fluxo de 5 fases com briefing, design brief, execucao, auditoria e entrega.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Igor Korsky",
+    "email": "igorkorsky@gmail.com"
+  },
+  "skills": "./skills/",
+  "commands": "./commands/",
+  "agents": "./agents/"
+}

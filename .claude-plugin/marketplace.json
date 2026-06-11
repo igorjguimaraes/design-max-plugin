@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "design-max-plugin",
+  "description": "Marketplace do plugin design-max: orquestrador de design para Claude Code",
+  "owner": {
+    "name": "Igor Korsky"
+  },
+  "plugins": [
+    {
+      "name": "design-max",
+      "source": "./",
+      "description": "Comando /design-max + 22 skills de UI/UX + agente web-builder em um fluxo de 5 fases.",
+      "version": "1.0.0",
+      "category": "design",
+      "keywords": ["design", "ui", "ux", "frontend", "landing-page"]
+    }
+  ]
+}
