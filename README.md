@@ -5,7 +5,7 @@ Arsenal completo de design para Claude Code: o comando `/design-max` orquestra 2
 ## Instalação
 
 ```bash
-claude plugin marketplace add SEU-USUARIO/design-max-plugin
+claude plugin marketplace add igorjguimaraes/design-max-plugin
 claude plugin install design-max@design-max-plugin
 ```
 
